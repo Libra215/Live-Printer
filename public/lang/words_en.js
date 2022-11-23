@@ -1,5 +1,9 @@
 var WORDS = [
 	"name|hamdan",
+	"name|aril",
+	"name|reza",
+	"name|badut",
+	"name|masako",
 ]
 /*
 "animal|tigru",
